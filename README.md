@@ -20,9 +20,6 @@
 
 ![StatsLang](https://github-readme-stats.vercel.app/api/top-langs/?username=MMartinsar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size_weight=0.3&count_weight=0.7&langs_count=10)
 
-## 📊 GitHub Stats:
-![Stats1](https://github-readme-stats.vercel.app/api?username=MMartinsar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MMartinsar&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
