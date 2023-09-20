@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-<p>🔭 I’m currently working on geomLib, my own C library.</p>
+<p>🔭 I’m currently working on [geomLib](https://github.com/MMartinsar/geomLib), my own C library.</p>
 <p>🌱 I’m currently learning Java and Python</p>
 <p>📫 Email to reach me: <strong>marcos.martinsar@gmail.com</strong></p>
 <p>📖 I speak English and Spanish</p>
