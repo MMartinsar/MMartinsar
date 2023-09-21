@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <p>🔭 I’m currently working on <a href="https://github.com/MMartinsar/geomLib">geomLib</a>, my own C library.</p>
-<p>🌱 I’m currently learning Java and Python</p>
+<p>🌱 I’m currently learning C</p>
 <p>📫 Email to reach me: <strong>marcos.martinsar@gmail.com</strong></p>
 <p>📖 I speak English and Spanish</p>
 
@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-martín-sarmiento-678ba7235/) 
 
 ## 💻 Languages & Tools:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
