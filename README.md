@@ -3,7 +3,6 @@
 # 💫 About Me:
 <p>🔭 I’m currently working on <a href=https://github.com/MMartinsar/Python-Exercises>Python Exercises</a>.</p>
 <p>🌱 I’m currently learning <a href=https://www.w3schools.com/python/python_intro.asp>Python</a></p>
-<p>📫 Email to reach me: <strong>marcos.martinsar@gmail.com</strong></p>
 <p>📖 I speak English and Spanish</p>
 
 ## 🌐 Socials:
